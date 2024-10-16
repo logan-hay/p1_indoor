@@ -1,0 +1,6 @@
+source;share/indoor_simulation/hook/pythonpath.ps1
+source;share/indoor_simulation/hook/pythonpath.dsv
+source;share/indoor_simulation/hook/pythonpath.sh
+source;share/indoor_simulation/hook/ament_prefix_path.ps1
+source;share/indoor_simulation/hook/ament_prefix_path.dsv
+source;share/indoor_simulation/hook/ament_prefix_path.sh
